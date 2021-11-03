@@ -1,11 +1,11 @@
 {
   "id": "pocopico.mpt2sas",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/mpt2sas/rpext-index.json",
+  "url": "https://github.com/Cavien/rp-ext/edit/main/mpt2sas/rpext-index.json",
   "info": {
     "name": "mpt2sas",
     "description": "Adds  Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/mpt2sas",
+    "author_url": "https://github.com/cavien",
+    "packer_url": "https://github.com/cavien/rp-ext/tree/main/mpt2sas",
     "help_url": "<todo>"
   },
   "releases": {
